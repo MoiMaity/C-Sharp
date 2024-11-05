@@ -1,0 +1,14 @@
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\bin\Debug\net8.0\Unit Converter.exe
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\bin\Debug\net8.0\Unit Converter.deps.json
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\bin\Debug\net8.0\Unit Converter.runtimeconfig.json
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\bin\Debug\net8.0\Unit Converter.dll
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\bin\Debug\net8.0\Unit Converter.pdb
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.csproj.CoreCompileInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.dll
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\refint\Unit Converter.dll
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.pdb
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\Unit Converter.genruntimeconfig.cache
+C:\Users\MOITRISH\Desktop\C#\Unit Converter\obj\Debug\net8.0\ref\Unit Converter.dll
