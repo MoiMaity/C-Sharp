@@ -1,0 +1,4 @@
+C:\Users\MOITRISH\Desktop\C#\Forward Backward\obj\Debug\net8.0\Forward Backward.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\C#\Forward Backward\obj\Debug\net8.0\Forward Backward.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Forward Backward\obj\Debug\net8.0\Forward Backward.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\C#\Forward Backward\obj\Debug\net8.0\Forward Backward.csproj.CoreCompileInputs.cache
