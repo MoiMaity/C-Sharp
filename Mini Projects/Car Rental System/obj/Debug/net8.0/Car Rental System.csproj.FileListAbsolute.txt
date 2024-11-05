@@ -1,0 +1,14 @@
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\bin\Debug\net8.0\Car Rental System.exe
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\bin\Debug\net8.0\Car Rental System.deps.json
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\bin\Debug\net8.0\Car Rental System.runtimeconfig.json
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\bin\Debug\net8.0\Car Rental System.dll
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\bin\Debug\net8.0\Car Rental System.pdb
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.csproj.CoreCompileInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.dll
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\refint\Car Rental System.dll
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.pdb
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\Car Rental System.genruntimeconfig.cache
+C:\Users\MOITRISH\Desktop\C#\Car Rental System\obj\Debug\net8.0\ref\Car Rental System.dll
