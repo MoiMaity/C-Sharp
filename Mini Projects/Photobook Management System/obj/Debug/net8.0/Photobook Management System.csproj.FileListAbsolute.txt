@@ -1,0 +1,14 @@
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\bin\Debug\net8.0\Photobook Management System.exe
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\bin\Debug\net8.0\Photobook Management System.deps.json
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\bin\Debug\net8.0\Photobook Management System.runtimeconfig.json
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\bin\Debug\net8.0\Photobook Management System.dll
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\bin\Debug\net8.0\Photobook Management System.pdb
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.csproj.CoreCompileInputs.cache
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.dll
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\refint\Photobook Management System.dll
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.pdb
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\Photobook Management System.genruntimeconfig.cache
+C:\Users\MOITRISH\Desktop\C#\Photobook Management System\obj\Debug\net8.0\ref\Photobook Management System.dll
