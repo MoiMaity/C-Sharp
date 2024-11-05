@@ -1,0 +1,28 @@
+C:\Users\MOITRISH\Desktop\New folder\First App\bin\Debug\net8.0\First App.exe
+C:\Users\MOITRISH\Desktop\New folder\First App\bin\Debug\net8.0\First App.deps.json
+C:\Users\MOITRISH\Desktop\New folder\First App\bin\Debug\net8.0\First App.runtimeconfig.json
+C:\Users\MOITRISH\Desktop\New folder\First App\bin\Debug\net8.0\First App.dll
+C:\Users\MOITRISH\Desktop\New folder\First App\bin\Debug\net8.0\First App.pdb
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.csproj.CoreCompileInputs.cache
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.dll
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\refint\First App.dll
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.pdb
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\First App.genruntimeconfig.cache
+C:\Users\MOITRISH\Desktop\New folder\First App\obj\Debug\net8.0\ref\First App.dll
+C:\Users\MOITRISH\Desktop\C#\First App\bin\Debug\net8.0\First App.exe
+C:\Users\MOITRISH\Desktop\C#\First App\bin\Debug\net8.0\First App.deps.json
+C:\Users\MOITRISH\Desktop\C#\First App\bin\Debug\net8.0\First App.runtimeconfig.json
+C:\Users\MOITRISH\Desktop\C#\First App\bin\Debug\net8.0\First App.dll
+C:\Users\MOITRISH\Desktop\C#\First App\bin\Debug\net8.0\First App.pdb
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.AssemblyInfoInputs.cache
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.AssemblyInfo.cs
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.csproj.CoreCompileInputs.cache
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.dll
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\refint\First App.dll
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.pdb
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\First App.genruntimeconfig.cache
+C:\Users\MOITRISH\Desktop\C#\First App\obj\Debug\net8.0\ref\First App.dll
